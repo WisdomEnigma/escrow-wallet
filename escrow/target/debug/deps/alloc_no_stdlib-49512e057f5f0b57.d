@@ -1,0 +1,10 @@
+/home/wiz/Documents/wizProjects/escrow-wallet/escrow/target/debug/deps/alloc_no_stdlib-49512e057f5f0b57.rmeta: /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/lib.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/mod.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/index_macro.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/stack_allocator.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_stack_memory.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/init.rs
+
+/home/wiz/Documents/wizProjects/escrow-wallet/escrow/target/debug/deps/alloc_no_stdlib-49512e057f5f0b57.d: /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/lib.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/mod.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/index_macro.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/stack_allocator.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_stack_memory.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/init.rs
+
+/home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/lib.rs:
+/home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/mod.rs:
+/home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/index_macro.rs:
+/home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/stack_allocator.rs:
+/home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_stack_memory.rs:
+/home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/init.rs:

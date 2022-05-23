@@ -1,0 +1,13 @@
+/home/wiz/Documents/wizProjects/escrow-wallet/escrow/target/debug/deps/url-61ff8b1d7175ea11.rmeta: /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/lib.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/host.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/origin.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/parser.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/path_segments.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/slicing.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/quirks.rs
+
+/home/wiz/Documents/wizProjects/escrow-wallet/escrow/target/debug/deps/liburl-61ff8b1d7175ea11.rlib: /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/lib.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/host.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/origin.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/parser.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/path_segments.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/slicing.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/quirks.rs
+
+/home/wiz/Documents/wizProjects/escrow-wallet/escrow/target/debug/deps/url-61ff8b1d7175ea11.d: /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/lib.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/host.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/origin.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/parser.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/path_segments.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/slicing.rs /home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/quirks.rs
+
+/home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/lib.rs:
+/home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/host.rs:
+/home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/origin.rs:
+/home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/parser.rs:
+/home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/path_segments.rs:
+/home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/slicing.rs:
+/home/wiz/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.2/src/quirks.rs:
